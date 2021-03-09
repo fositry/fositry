@@ -1,16 +1,32 @@
-### Hi there 👋
+  ⚡ Bem vindo ao meu GitHub! ⚡
+         Fique à vontade! 🌱
 
-<!--
-**fositry/fositry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  😄 Sobre mim: 
 
-Here are some ideas to get you started:
+- 👋 Chamo-me Marilene Dias. 
+- 💡 Graduanda em Análise e Desenvolvimento de Sistemas.
+- 🌱 Estudando para me tornar desenvolvedora.
+- 🎓 A quantidade de cursos concluídos e certificados só aumenta!
+- 💻 Apaixonada por conhecimento.
+- 📌 De Belo Horizonte, Brasil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Habilidades:
+
+- Python 🐍
+- Git 
+- HTML5 
+- CSS3
+
+📦 Databases:
+
+- MySql 
+
+🧰 Ferramentas:
+
+- PyCharm 
+- GitHub 
+- VSCode 
+
+
+
+
