@@ -7,7 +7,7 @@
 - 💡 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 🌱 Estudando para me tornar desenvolvedora.
 - 🎓 A quantidade de cursos concluídos e certificados só aumenta!
-- 💻 Apaixonada por conhecimento.
+- 💻 Adoro me sentir em crescimento.
 - 📌 De Belo Horizonte, Brasil.
 
 ⚡ Habilidades:
