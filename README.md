@@ -6,7 +6,7 @@
 - 👋 Chamo-me Marilene Dias. 
 - 💡 Graduanda em Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedora.
-- 🎓 A quantidade de cursos concluídos e certificados só aumenta!
+- 🎓 A quantidade de cursos concluídos só aumenta!
 - 🌱 Adoro me sentir em crescimento.
 - 📌 De Belo Horizonte, Brasil.
 
