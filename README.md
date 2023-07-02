@@ -30,7 +30,8 @@
 - PyCharm 
 - GitHub 
 - VSCode
-- Visual Studio  
+- Visual Studio
+- Azure DevOps
 
 
 
