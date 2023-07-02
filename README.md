@@ -16,16 +16,21 @@
 - Git 
 - HTML5 
 - CSS3
+- C#
+- Java
+- SQL
 
 📦 Databases:
 
-- MySql 
+- MySql
+- SQL SERVER
 
 🧰 Ferramentas:
 
 - PyCharm 
 - GitHub 
-- VSCode 
+- VSCode
+- Visual Studio  
 
 
 
